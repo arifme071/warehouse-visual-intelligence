@@ -5,7 +5,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![CI](https://github.com/YOUR_USERNAME/warehouse-visual-intelligence/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/arifme071/warehouse-visual-intelligence/actions/workflows/ci.yml/badge.svg)
 
 ---
 
@@ -63,7 +63,7 @@ Upload a warehouse image (or connect a camera feed) and the system:
 
 ### 1. Clone and set up environment
 ```bash
-git clone https://github.com/YOUR_USERNAME/warehouse-visual-intelligence
+git clone https://github.com/arifme071/warehouse-visual-intelligence-Google-and-AWS-cloud
 cd warehouse-visual-intelligence
 python -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
@@ -163,5 +163,5 @@ MIT — free to use, modify, and share.
 
 ## 🙋 Author
 
-Built by [Your Name](https://linkedin.com/in/yourprofile) as a real-world AI + cloud engineering portfolio project.
+Built by [Md Arifur Rahma](https://linkedin.com/in/yourprofile) as a real-world AI + cloud engineering portfolio project.
 ```

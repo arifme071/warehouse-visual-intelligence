@@ -1,16 +1,9 @@
-# Core ML - headless OpenCV required for Streamlit Cloud
-opencv-python-headless==4.9.0.80
-ultralytics==8.2.0
-Pillow==10.3.0
-
-# Dashboard
-streamlit==1.35.0
-
-# Data
-numpy==1.26.4
-pandas==2.2.2
-
-# Utils
-python-dotenv==1.0.1
-loguru==0.7.2
-pydantic==2.7.1
+opencv-python-headless
+ultralytics
+Pillow
+streamlit
+numpy
+pandas
+python-dotenv
+loguru
+pydantic

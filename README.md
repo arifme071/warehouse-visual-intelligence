@@ -163,5 +163,5 @@ MIT — free to use, modify, and share.
 
 ## 🙋 Author
 
-Built by [Md Arifur Rahmann](https://www.linkedin.com/in/marahman-gsu/) as a real-world AI + cloud engineering portfolio project.
+Built by [Md Arifur Rahman](https://www.linkedin.com/in/marahman-gsu/) as a real-world AI + cloud engineering portfolio project.
 ```
